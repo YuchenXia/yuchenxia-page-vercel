@@ -275,5 +275,6 @@ I have designed 50 research topics for master students and mentored them through
 Yuchen Xia  
 Stuttgart, Germany  
 **Email:** xiayuchen@whu.edu.cn
+**Email (DE):** yuchen.xia@ias.uni-stuttgart.de
 
 ---
