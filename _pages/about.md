@@ -102,6 +102,7 @@ redirect_from:
 <div class="research-item">
   <div class="research-content">
     <p><strong>Control Industrial Automation System with Large Language Models,</strong> Yuchen Xia, Nasser Jazdi, Jize Zhang, Chaitanya Shah, Michael Weyrich, <em>(accepted) IEEE 30th ETFA, 2025</em>,
+    <a href="https://ieeexplore.ieee.org/abstract/document/11205539" target="_blank">[IEEE published (PDF)]</a>
     <a href="https://doi.org/10.48550/arXiv.2409.18009" target="_blank">[arXiv Pre-print (PDF)]</a>
     <a href="https://github.com/YuchenXia/LLM4IAS" target="_blank">[GitHub]</a>
     </p>
