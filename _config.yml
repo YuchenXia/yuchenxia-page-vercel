@@ -23,7 +23,7 @@ repository               : "YuchenXia/yuchenxia-page-vercel"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuchen Xia, Ph.D. (夏瑜辰)"
+  name             : "Yuchen Xia, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Research on LLM, digital twins & automation"
   location         : "Stuttgart, Germany"
