@@ -12,8 +12,8 @@ redirect_from:
 
 <meta name="google-site-verification" content="nAq6QLeWK_4N7y6zI76rrF8NarFyycJ4y_3vVCi391E" />
 <p style="color: black; opacity: 0;">Hello, I am Yuchen Xia.</p>
-  
-<p> I am a postdoctoral researcher in industrial AI, working on LLM agents, digital twins, and autonomous industrial systems. Since 2021, I have focused on this research direction, led two R&D projects on industrial agent systems, and developed multiple LLM-powered solutions deployed in real-world industrial applications. </p>
+
+<p> My research focuses on LLM agents, digital twins, and autonomous industrial systems. Since 2021, I have focused on this research direction, led two R&D projects on industrial agent systems, and developed multiple LLM-powered solutions deployed in real-world industrial applications. </p>
 
 ---
 # Academic Background
@@ -69,7 +69,7 @@ redirect_from:
     <p>
       Following the successful Project-Phase-I proof of concept, Project-Phase-II focuses on scaling the system to solve more complex tasks through model orchestration and automate multi-objective optimization.
     </p>
-
+    
     <p>
       References:
       <a href="https://www.ias.uni-stuttgart.de/dokumente/Taetigkeitsbericht_2025_IAS.pdf" target="_blank">[IAS Report]</a>
@@ -84,9 +84,8 @@ redirect_from:
 </div>
 
 
-
 <div class="research-item">
-   <div class="research-content">
+  <div class="research-content">
     <p><strong>Towards autonomous system: flexible modular production system enhanced with large language model agents,</strong> Yuchen Xia, Methan Shenoy, Nasser Jazdi, Michael Weyrich, <em>IEEE 28th ETFA, 2023</em>,
     <a href="https://doi.org/10.1109/ETFA54631.2023.10275362" target="_blank">[IEEE published (PDF)]</a>
     <a href="https://arxiv.org/abs/2304.14721" target="_blank">[arXiv Pre-print (PDF)]</a>
