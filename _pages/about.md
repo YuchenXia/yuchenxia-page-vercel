@@ -10,52 +10,39 @@ redirect_from:
 <meta name="google-site-verification" content="nAq6QLeWK_4N7y6zI76rrF8NarFyycJ4y_3vVCi391E" />
 <p style="color: black; opacity: 0;">Hello, I am Yuchen Xia.</p>
   
-<p>I received my Ph.D. with the distinction of <i>magna cum laude</i> from the Institute of Industrial Automation and Software Engineering, University of Stuttgart <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">(News)</a>. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and have been leading an R&D project on agent systems for industrial applications. My dissertation, titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", focuses on bridging LLM-based agents with industrial digital twins. If you find the stuff here interesting, feel free to drop me a message for exchange.</p>
-
-<p>
-  <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="_blank">🎓 Google Scholar</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/YuchenXia" target="_blank">🛠️ GitHub</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/xiayuchen/" target="_blank">💼 LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="mailto:contact@yuchenxia.com">📧 Email</a>
-</p>
+<p> I am a postdoctoral researcher in industrial AI, working on LLM agents, digital twins, and autonomous industrial systems. Since 2021, I have focused on this research direction, led two R&D projects on industrial agent systems, and developed multiple LLM-powered solutions deployed in real-world industrial applications. </p>
 
 ---
-# Research Areas  
-* **Large Language Models**: Agent System, Tool-Using Agent, Generative System, Assistant System for Specialized Tasks.  
-* **Digital Twins**: Software-as-a-Service (SaaS), System Modeling, Simulation, Software Modeling, Semantic Modeling, Model-driven Software Development
-* **Automation System**: Industrial Automation, Internet of Things, Workflow and Task Automation, Robotics Application, and Automotive Application.
+# Academic Background
 
----
-# Academic Experience
-* Ph.D., Industrial Automation & Software Engineering, University of Stuttgart, Germany (2020 – 2026), funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).
+* **Ph.D.** (magna cum laude), Institute for Industrial Automation and Software Engineering, University of Stuttgart, Germany, 2020–2026
   
-  Topic: *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems* <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank"> [Dissertation PDF] </a>
+  **Dissertation:** *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems* <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[Dissertation]</a>
+  
+  Ph.D. Exam Recording Online: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[Bilibili]</a>
+  
+  **Funding:** Full-Scholarship from Stiftung der Deutschen Wirtschaft and the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME) of University of Stuttgart.
 
-  Ph.D. Defense – Video Recording Online: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[Bilibili]</a>
-
-* M.Sc., Mechatronics and Autonomous Systems, University of Stuttgart, Germany (2017-2019)  
-* B.Sc., Automotive Engineering, University of Stuttgart <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank">[Wiki]</a>, Germany (2013-2017)  
+* **M.Sc., Mechatronics and Autonomous Systems**, University of Stuttgart, Germany (2017-2019)  
+* **B.Sc., Automotive Engineering**, University of Stuttgart <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank">[Wiki]</a>, Germany (2013-2017)  
   *Dual-degree program*
-* B.Eng., Mechanical Engineering & Automation, Wuhan University <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank">[Wiki]</a>, China (2011-2017)  
+* **B.Eng., Mechanical Engineering & Automation**, Wuhan University <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank">[Wiki]</a>, China (2011-2017)  
   *Dual-degree program*
 
 ---
-# Acknowledgements and Awards 
+# Acknowledgements
 
 <div class="research-item">
   <div class="research-content">
-    <strong>Successful Ph.D. Defense</strong> at University of Stuttgart, March 23, 2026, Stuttgart Germany<br>
-    <strong>Ph.D. Defense – Video Recording Online:</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 on Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 on Bilibili]</a>
+    <strong>Ph.D. with magna cum laude</strong> at University of Stuttgart, March 23, 2026, Stuttgart Germany.  <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">News</a><br>
+    <strong>Defense Presentation Recording Online:</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 on Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 on Bilibili]</a>
     <p>Dissertation: <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank"> [🎓📑 Dissertation PDF download] </a> </p>
     <img src="/images/phd_exam.jpg" alt="phd_exam">
   </div>
 </div>
 
 <div class="research-item">
-  <strong>🏆 atp award, VDI-Wissensforum, Automation 2025</strong>, July 01, 2025, Baden-Baden, Germany<br>
+  <strong>🏆 atp award — VDI (Association of German Engineers), Automation 2025 Conference</strong>, July 01, 2025, Baden-Baden, Germany<br>
   <p>For research: <em>Applying Large Language Models for intelligent industrial automation</em>.</p>
   <img src="/images/automation2025.png" alt="vdi_atp_award_image">
 </div>
@@ -67,7 +54,7 @@ redirect_from:
 </div>
 
 ---
-# <span id="research">Research</span>
+# <span id="research">Research Highlights</span>
 
 <div class="research-item">
   <div class="research-content">
@@ -181,28 +168,16 @@ redirect_from:
   </div>
 </div>
 
-<div class="research-item">
-  <div class="research-content">
-    <p><strong>An Architecture for Integrating Large Language Models with Digital Twins and Automation Systems,</strong> Yuchen Xia, Nasser Jazdi, Michael Weyrich, <em>IEEE 30th ETFA, 2025</em>,
-    <a href="/files/architecture_for_integrating_large_language_models.pdf" target="_blank">[Preprint (PDF)]</a>
-    </p>
-  </div>
-  <div class="research-image">
-    <p>TLDR: Layered architecture and modeling methods for integrating LLMs, digital twins, and automation systems.</p>
-    <img src="/images/research/modeling_methods.png" alt="modeling_methods.png">
-  </div>
-</div>
-
 ---
 # <span id="publications">Publications</span> <small>(also see <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
 
 
 | Title                                                                                                                                                                                                                                                          | Year | Google Link                                                                                                                                                                                                                                           |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Simulation-Integrated LLM-Agent System for Computation Orchestration and Parameter Optimisation in Process Engineering                                                                                                    | 2026 | under review                                                                       |
 | Ph.D. Thesis: Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems                                                                                                    | 2026 | <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">📑Dissertation PDF</a> <br><a href="/files/01_phd_thesis_integrating_llm_agents_digital_twins.bib" target="_blank">🔖 Citation.bib</a>                                                                       |
 | LLM Agents Perform Controlled Experiments Using Simulation Models                                                                                                    | 2026 |IEEE ETFA under review                                                                       |
 | An Architecture for Integrating Large Language Models with Digital Twins and Automation Systems                                                                                                    | 2025 | <a href="/files/architecture_for_integrating_large_language_models.pdf" target="_blank">📑Paper preprint</a><br> <a href="https://ieeexplore.ieee.org/document/11205636/" target="_blank">📑Paper on IEEE</a> <br><a href="/files/02_architecture_llm_digital_twins_automation_systems.bib" target="_blank">🔖 Citation.bib</a>                                                                        |
-| Generate Customized ERP Software with LLM Agents and a Model-Driven Platform (under review)                                                                                                                      | 2025 |                                                                                      |
 | Control Industrial Automation Systems with Large Language Models                                                                                                                                  | 2025 | <a href="https://arxiv.org/abs/2409.18009" target="_blank">📑Paper on arxiv</a> <br><a href="https://ieeexplore.ieee.org/abstract/document/11205539" target="_blank">📑Paper on IEEE</a> <br><a href="/files/03_control_industrial_automation_llm_agents.bib" target="_blank"> 🔖 Citation.bib</a>                                                                                                        |
 | Applying Large Language Models for Intelligent Industrial Automation -🏆 **atp award 2024 – VDI Automation (July 01, 2025)**                                                                          | 2024 | <a href="https://atpinfo.de/wp-content/uploads/2025/04/xia.pdf" target="_blank">📑Paper</a> <br><a href="/files/04_applying_llms_intelligent_industrial_automation.bib" target="_blank">🔖 Citation.bib</a>                                                                    |
 | LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parameterization in Digital Twins -🏆 **Best Paper – ETFA 2024 (Sep 13, 2024)**                            | 2024 | <a href="https://arxiv.org/abs/2405.18092" target="_blank">📑Paper on arxiv</a> <br><a href="https://ieeexplore.ieee.org/document/10710900/" target="_blank">📑Paper on IEEE</a><br><a href="/files/05_llm_experiments_simulation_digital_twins.bib" target="_blank">🔖 Citation.bib</a>                                      |
@@ -212,7 +187,6 @@ redirect_from:
 | Enhance FMEA with Large Language Models for Assisted Risk Management in Technical Processes and Products                                                                                           | 2024 | <a href="https://ieeexplore.ieee.org/document/10710996" target="_blank">📑Paper on IEEE</a> <br> <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.172254395.58219170/v1" target="_blank">📑Paper on techrxiv</a><br><a href="/files/09_enhance_fmea_llms.bib" target="_blank">🔖 Citation.bib</a>                                                            |
 | Towards autonomous systems: Flexible modular production system enhanced with large language model agents -⭐️ **most cited in conference proceeding** 🔗<a href="https://ieeexplore.ieee.org/xpl/conhome/10275065/proceeding?sortType=paper-citations&isnumber=10275329" target="_blank">📑Paper on IEEE</a>                                                                                         | 2023 |  <a href="https://arxiv.org/abs/2304.14721" target="_blank">📑Paper on arxiv</a> <br>  <a href="https://ieeexplore.ieee.org/document/10275362" target="_blank">📑Paper on IEEE</a>  <br><a href="/files/10_towards_autonomous_system_flexible_modular_production.bib" target="_blank">🔖 Citation.bib</a>                                                          |
 | Automated generation of Asset Administration Shell: A transfer-learning approach with neural language model and semantic fingerprints                                                             | 2022 | <a href="https://ieeexplore.ieee.org/document/9921637" target="_blank">📑Paper on IEEE</a> <br><a href="/files/11_automated_generation_aas_transfer_learning.bib" target="_blank">🔖 Citation.bib</a> |
-
 
 
 ---
@@ -284,7 +258,19 @@ I have designed 50 research topics for master students and mentored them through
 
 
 ---
+Yuchen Xia
 
-Yuchen Xia  
 Email: contact@yuchenxia.com
+
+
+<p>
+  <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="_blank">🎓 Google Scholar</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/YuchenXia" target="_blank">🛠️ GitHub</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/xiayuchen/" target="_blank">💼 LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:contact@yuchenxia.com">📧 Email</a>
+</p>
+
 ---
