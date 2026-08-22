@@ -260,9 +260,6 @@ I have designed 50 research topics for master students and mentored them through
 ---
 Yuchen Xia
 
-Email: contact@yuchenxia.com
-
-
 <p>
   <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="_blank">🎓 Google Scholar</a>
   &nbsp;|&nbsp;
