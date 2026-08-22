@@ -276,6 +276,8 @@ I have designed 50 research topics for master students and mentored them through
 
 
 ---
+# Contact
+
 Yuchen Xia
 
 <p>
