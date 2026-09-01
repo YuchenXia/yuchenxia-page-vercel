@@ -89,7 +89,7 @@ author: de
     <div>
       <p><strong>Dissertation:</strong> <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[🎓📑 PDF]</a></p>
       <p class="research-note">
-        Die Aufzeichnung des PrüfungsVortrags ist online verfügbar:
+        Die Aufzeichnung des Prüfungsvortrags ist online verfügbar:
         Auf dem chinesischen Videoportal
         <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">🎬 Bilibili (哔哩哔哩)</a>
         wurde die Aufzeichnung bereits über 13.000 Mal angesehen.
